@@ -164,21 +164,6 @@ http://127.0.0.1:5000
 ---
 
 ## 📷 Application Screens
-
-### 🏠 Home Page
-
-*(Add Home page screenshot here)*
-
-### 🌱 Find Your Crop
-
-*(Add Crop Prediction page screenshot here)*
-
-### ℹ️ About
-
-*(Add About page screenshot here)*
-
----
-
 ## 📈 Model Workflow
 
 1. Load the crop recommendation dataset
